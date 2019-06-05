@@ -1,0 +1,32 @@
+{
+  "results": [
+    {
+      "name": "kartik",
+      "age": 0,
+      "subjects": [
+        "end",
+        "math",
+        "hindi"
+      ]
+    },
+    {
+      "name": "dk",
+      "age": 10,
+      "subjects": [
+        "end",
+        "math",
+        "hindi"
+      ]
+    },
+    {
+      "name": "kushal",
+      "age": 100,
+      "verified": false,
+      "subjects": [
+        "end",
+        "math",
+        "hindi"
+      ]
+    }
+  ]
+}
